@@ -6,4 +6,5 @@
 
 **WANT THIS OP LOGGER JOIN THIS SERVER ---> https://discord.gg/GBwCsEjaWC**
 
-https://media.discordapp.net/attachments/1209644864463970354/1209862242774949919/7064f8105512449.5f7b1e51a8e7a.jpg?ex=65f1b184&is=65df3c84&hm=7bbb03f06bf40173dc4a0f3780cf2de88da06ccd0a9bad0da8a2be332ebd9408&format=webp&width=466&height=350&
+![image](https://github.com/azurZZZ/Solar-V1.2/assets/161904663/187529a7-2837-4e22-bbce-f9f02d82257e)
+
