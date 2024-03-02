@@ -8,3 +8,17 @@
 
 ![image](https://github.com/azurZZZ/Solar-V1.2/assets/161904663/187529a7-2837-4e22-bbce-f9f02d82257e)
 
+
+
+
+
+
+
+
+
+
+
+
+
+ignnore pls 
+tags : A discord token grabber, crypto wallet stealer, cookie stealer, password stealer, file stealer etc. app written in Python. A simple Discord token grabber written in Python 3, The most powerful stealer written in Python 3 and packed with a lot of features., Very customizable imageboard/booru downloader with powerful filenaming features.
